@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "expo-blank",
+    "slug": "your-app-slug",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/png.png",
+    "splash": {
+      "image": "./assets/icons/png.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.yourcompany.yourapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/png.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.yourcompany.yourapp"
+    },
+    "web": {
+      "favicon": "./assets/icons/png.png"
+    }
+  }
+}
