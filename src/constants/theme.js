@@ -31,6 +31,14 @@ export const COLORS = {
   danger: "#bb2124",
 
   transparent: "transparent",
+
+  // logo backgrounds
+  chatGptColor: "#74ab9c",
+  dalleCOlor: "#edaef2",
+  midjourneyColor: "#46eefa",
+  stableDiffusionColor: "#9e79fc",
+  geminiColor: "#82bfed",
+  copilotColor: "#ffb152",
 };
 
 export const SIZES = {
@@ -99,7 +107,7 @@ export const darkTheme = {
     primary: "#003087",
     secondary: "#1f1f1f",
     text: "#ffffff",
-    danger:"#bb2124",
+    danger: "#bb2124",
   },
 };
 export const lightTheme = {
@@ -107,7 +115,7 @@ export const lightTheme = {
     primary: "#ffffff",
     secondary: "#f0f0f0",
     text: "#003087",
-    danger:"#bb2124",
+    danger: "#bb2124",
   },
 };
 
