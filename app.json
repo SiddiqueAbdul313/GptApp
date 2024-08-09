@@ -23,6 +23,7 @@
         "foregroundImage": "./assets/icons/png.png",
         "backgroundColor": "#FFFFFF"
       },
+      "permissions": ["READ_CONTACTS", "CAMERA", "RECORD_AUDIO"],
       "package": "com.yourcompany.yourapp"
     },
     "web": {

@@ -26,8 +26,8 @@ const HomeScreen = () => {
   };
 
   const stopSpeaking = () => {
-    setSpeaking(false)
-  }
+    setSpeaking(false);
+  };
 
   return (
     <View className="flex-1 bg-zinc-100">
